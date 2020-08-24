@@ -1,5 +1,5 @@
 {
-  "name": "Project name in json file",
+  "name": "fcc-5-localized-news-master",
   "version": "1.0.0",
   "description": "",
   "main": "vibe.js",
@@ -13,6 +13,8 @@
   "dependencies": {
     "@11ty/eleventy": "^0.10.0",
     "axios": "^0.19.2",
-    "dotenv": "^8.2.0"
+    "dotenv": "^8.2.0",
+    "eleventy": "^1.0.6",
+    "getenv": "^1.0.0"
   }
 }
