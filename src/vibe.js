@@ -1,9 +1,9 @@
   // Bank some good vibe options
   const vibes = [
-    "...and you are awesome!",
-    "...have a wonderful day!",
-    "...and you've got this!",
-    "...and so is this puppy! 🐶",
+    "...and you are tubular!",
+    "...have a wonderful night!",
+    "...and you might have this!",
+    "...and so is this CAT! 🐶",
     "...BIGDADDY is the best!!"
   ];
 
