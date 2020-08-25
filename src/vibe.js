@@ -4,7 +4,7 @@
     "...have a wonderful day!",
     "...and you've got this!",
     "...and so is this puppy! 🐶",
-    "...BIGDADDY is the best!"
+    "...BIGDADDY is the best!!"
   ];
 
    // choose a random good vibe
